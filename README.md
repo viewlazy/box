@@ -1,12 +1,4 @@
-/* 
- * Lazy Line Painter - Path Object 
- * Generated using 'SVG to Lazy Line Converter'
- * 
- * http://lazylinepainter.info 
- * Copyright 2018, Cam O'Connell  
- *  
- */ 
- 
+
 var pathObj = {
     "1_画板1_画板1": {
         "strokepath": [
